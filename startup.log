@@ -1,0 +1,149 @@
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.015  000.015: --- NVIM STARTING ---
+001.813  001.798: locale set
+004.145  002.331: inits 1
+004.189  000.045: window checked
+004.195  000.006: parsing arguments
+004.667  000.471: expanding arguments
+004.787  000.121: inits 2
+005.414  000.627: init highlight
+005.416  000.002: waiting for UI
+013.838  008.423: done waiting for UI
+013.862  000.023: initialized screen early for UI
+025.287  006.319  006.319: sourcing /Users/chip/.local/share/nvim/site/autoload/plug.vim
+071.210  015.579  015.579: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/filetype.vim
+072.486  000.388  000.388: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/ftplugin.vim
+074.729  001.000  001.000: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/indent.vim
+079.932  001.412  001.412: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/syntax/syncolor.vim
+080.719  003.035  001.624: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/syntax/synload.vim
+080.877  005.217  002.182: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/syntax/syntax.vim
+080.903  063.261  034.758: sourcing /Users/chip/.config/nvim/plugins.vim
+170.176  089.101  089.101: sourcing /Users/chip/.config/nvim/lsp.vim
+197.726  027.427  027.427: sourcing /Users/chip/.config/nvim/autocomplete-luasnip.vim
+198.891  000.993  000.993: sourcing /Users/chip/.config/nvim/telescope.vim
+199.923  000.929  000.929: sourcing /Users/chip/.config/nvim/conjure.vim
+203.165  000.243  000.243: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/syntax/syncolor.vim
+204.628  000.209  000.209: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/syntax/syncolor.vim
+205.727  000.185  000.185: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/syntax/syncolor.vim
+215.586  014.148  013.510: sourcing /Users/chip/.local/share/nvim/plugged/srcery-vim/colors/srcery.vim
+215.718  015.664  001.516: sourcing /Users/chip/.config/nvim/.vimrc
+215.727  198.960  001.585: sourcing /Users/chip/.config/nvim/init.vim
+215.738  002.916: sourcing vimrc file(s)
+218.311  000.772  000.772: sourcing /Users/chip/.local/share/nvim/plugged/nvim-lspconfig/plugin/lspconfig.vim
+219.740  000.341  000.341: sourcing /Users/chip/.local/share/nvim/plugged/nvim-lspinstall/plugin/lspinstall.vim
+222.296  000.865  000.865: sourcing /Users/chip/.local/share/nvim/plugged/nvim-compe/plugin/compe.vim
+224.233  000.761  000.761: sourcing /Users/chip/.local/share/nvim/plugged/LuaSnip/plugin/luasnip.vim
+226.543  000.676  000.676: sourcing /Users/chip/.local/share/nvim/plugged/plenary.nvim/plugin/plenary.vim
+229.333  001.533  001.533: sourcing /Users/chip/.local/share/nvim/plugged/telescope.nvim/plugin/telescope.vim
+231.625  000.933  000.933: sourcing /Users/chip/.local/share/nvim/plugged/vim-commentary/plugin/commentary.vim
+236.518  004.392  004.392: sourcing /Users/chip/.local/share/nvim/plugged/mru/plugin/mru.vim
+240.214  001.109  001.109: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/gzip.vim
+241.048  000.673  000.673: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/health.vim
+241.883  000.637  000.637: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/man.vim
+245.877  000.978  000.978: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+246.323  004.280  003.303: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/matchit.vim
+247.890  001.438  001.438: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/matchparen.vim
+250.310  002.267  002.267: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/netrwPlugin.vim
+251.151  000.642  000.642: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/rplugin.vim
+251.771  000.463  000.463: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/shada.vim
+252.443  000.405  000.405: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/spellfile.vim
+253.259  000.631  000.631: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/tarPlugin.vim
+255.016  001.479  001.479: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/tohtml.vim
+255.668  000.416  000.416: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/tutor.vim
+256.662  000.829  000.829: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/zipPlugin.vim
+259.203  017.923: loading plugins
+259.519  000.315: loading packages
+273.627  013.537  013.537: sourcing /Users/chip/.local/share/nvim/plugged/nvim-compe/after/plugin/compe.vim
+274.618  001.562: loading after plugins
+274.637  000.019: inits 3
+281.538  006.901: reading ShaDa
+281.717  000.179: opening buffers
+281.912  000.195: BufEnter autocommands
+281.916  000.003: editing files in windows
+282.052  000.137: VimEnter autocommands
+282.055  000.003: UIEnter autocommands
+286.883  002.246  002.246: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/autoload/provider/clipboard.vim
+286.921  002.620: before starting main loop
+288.152  001.231: first screen update
+288.159  000.007: --- NVIM STARTED ---
+
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.027  000.027: --- NVIM STARTING ---
+001.497  001.469: locale set
+002.564  001.067: inits 1
+002.608  000.044: window checked
+002.924  000.316: parsing arguments
+003.377  000.454: expanding arguments
+003.494  000.117: inits 2
+004.118  000.624: init highlight
+004.120  000.002: waiting for UI
+008.001  003.881: done waiting for UI
+008.183  000.182: initialized screen early for UI
+013.187  003.809  003.809: sourcing /Users/chip/.local/share/nvim/site/autoload/plug.vim
+033.180  014.039  014.039: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/filetype.vim
+034.124  000.085  000.085: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/ftplugin.vim
+034.997  000.068  000.068: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/indent.vim
+036.804  000.429  000.429: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/syntax/syncolor.vim
+037.542  001.497  001.068: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/syntax/synload.vim
+037.692  001.978  000.481: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/syntax/syntax.vim
+037.717  028.548  008.568: sourcing /Users/chip/.config/nvim/plugins.vim
+068.324  030.444  030.444: sourcing /Users/chip/.config/nvim/lsp.vim
+075.393  006.965  006.965: sourcing /Users/chip/.config/nvim/autocomplete-luasnip.vim
+075.607  000.056  000.056: sourcing /Users/chip/.config/nvim/telescope.vim
+075.703  000.026  000.026: sourcing /Users/chip/.config/nvim/conjure.vim
+076.336  000.154  000.154: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/syntax/syncolor.vim
+077.342  000.155  000.155: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/syntax/syncolor.vim
+078.197  000.138  000.138: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/syntax/syncolor.vim
+084.462  008.545  008.099: sourcing /Users/chip/.local/share/nvim/plugged/srcery-vim/colors/srcery.vim
+084.561  008.786  000.241: sourcing /Users/chip/.config/nvim/.vimrc
+084.568  075.617  000.792: sourcing /Users/chip/.config/nvim/init.vim
+084.576  000.776: sourcing vimrc file(s)
+085.410  000.108  000.108: sourcing /Users/chip/.local/share/nvim/plugged/nvim-lspconfig/plugin/lspconfig.vim
+085.721  000.056  000.056: sourcing /Users/chip/.local/share/nvim/plugged/nvim-lspinstall/plugin/lspinstall.vim
+086.252  000.333  000.333: sourcing /Users/chip/.local/share/nvim/plugged/nvim-compe/plugin/compe.vim
+086.741  000.280  000.280: sourcing /Users/chip/.local/share/nvim/plugged/LuaSnip/plugin/luasnip.vim
+087.033  000.035  000.035: sourcing /Users/chip/.local/share/nvim/plugged/plenary.nvim/plugin/plenary.vim
+087.551  000.308  000.308: sourcing /Users/chip/.local/share/nvim/plugged/telescope.nvim/plugin/telescope.vim
+087.936  000.156  000.156: sourcing /Users/chip/.local/share/nvim/plugged/vim-commentary/plugin/commentary.vim
+089.786  001.617  001.617: sourcing /Users/chip/.local/share/nvim/plugged/mru/plugin/mru.vim
+091.492  000.415  000.415: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/gzip.vim
+091.600  000.021  000.021: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/health.vim
+091.813  000.140  000.140: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/man.vim
+093.387  000.195  000.195: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+093.826  001.939  001.744: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/matchit.vim
+094.154  000.221  000.221: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/matchparen.vim
+095.390  000.999  000.999: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/netrwPlugin.vim
+095.763  000.216  000.216: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/rplugin.vim
+096.046  000.189  000.189: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/shada.vim
+096.309  000.040  000.040: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/spellfile.vim
+096.571  000.171  000.171: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/tarPlugin.vim
+096.857  000.104  000.104: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/tohtml.vim
+096.970  000.031  000.031: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/tutor.vim
+097.248  000.190  000.190: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/plugin/zipPlugin.vim
+099.270  007.123: loading plugins
+099.503  000.233: loading packages
+104.184  004.284  004.284: sourcing /Users/chip/.local/share/nvim/plugged/nvim-compe/after/plugin/compe.vim
+104.850  001.063: loading after plugins
+104.864  000.014: inits 3
+107.912  003.048: reading ShaDa
+112.890  001.969  001.969: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/ftplugin/clojure.vim
+120.464  002.189  002.189: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/indent/clojure.vim
+125.853  004.096  004.096: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/syntax/clojure.vim
+135.946  019.780: opening buffers
+138.402  002.456: BufEnter autocommands
+138.409  000.007: editing files in windows
+138.619  000.210: VimEnter autocommands
+138.624  000.005: UIEnter autocommands
+139.178  000.302  000.302: sourcing /usr/local/Cellar/neovim/HEAD-a03ffe1_2/share/nvim/runtime/autoload/provider/clipboard.vim
+139.191  000.265: before starting main loop
+149.907  010.717: first screen update
+149.912  000.004: --- NVIM STARTED ---
